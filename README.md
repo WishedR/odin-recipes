@@ -1,0 +1,2 @@
+# odin-recipes
+scnd prjct
